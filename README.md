@@ -14,7 +14,7 @@ This is a simple hotel guest management system built using PHP and a SQL-based d
 3. Start *Apache* and *MySQL* from XAMPP Control Panel.
 4. Import the provided .sql file (if included) into *phpMyAdmin*.
 5. Open your browser and go to:  
-   http://localhost/Hotel-guest-system/
+   http://localhost/Hotel Guest Management System/
 
 ## ⚙ Features:
 - Add, edit, and delete guest records
